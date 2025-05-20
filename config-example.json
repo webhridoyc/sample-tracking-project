@@ -1,0 +1,7 @@
+{
+  "facebook_pixel_id": "655856517053183",
+  "gtm_id": "GTM-PS2MBB2M",
+  "api_token": "your_server_token_here",
+  "event_name": "Purchase",
+  "currency": "USD"
+}
